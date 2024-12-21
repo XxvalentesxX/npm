@@ -14,7 +14,7 @@ const checkContains = require("./message/checkContains");
 const { EditButton } = require("./message/Components/Buttons/Edit");
 const { RemoveButton } = require("./message/Components/Buttons/Remove");
 const { Buttons } = require("./message/Components/Buttons/Set");
-const userinfo = require("./user/info");
+const userinfo = require("./User/Info");
 
 module.exports = {
     Add: {
